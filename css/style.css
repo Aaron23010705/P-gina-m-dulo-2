@@ -2,12 +2,18 @@ h1 {text-align: center;
 color: brown;}
 *{background-color: aliceblue;
 font-size: medium;}
+
+div {
+    border: black, 5px, solid;
+}
 div.primero {
     text-align: center;
+   border: black, 5px, solid;
 }
 p.primer { 
     padding-top: 2%;
     text-align: justify;
+   
 }
 p{
     text-align: justify;
@@ -19,3 +25,16 @@ h4.m {
     color: red;
     text-decoration: underline;
 }
+div.segundo {
+    text-align: center;
+  }
+
+    p.second {
+        padding-top: 2%;
+    }
+p.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+padding-top: 1%;
+font-weight: bolder;}
