@@ -1,0 +1,21 @@
+h1 {text-align: center;
+color: brown;}
+*{background-color: aliceblue;
+font-size: medium;}
+div.primero {
+    text-align: center;
+}
+p.primer { 
+    padding-top: 2%;
+    text-align: justify;
+}
+p{
+    text-align: justify;
+    line-height: 125%;
+    padding-left: 2%;
+    padding-right: 5%;
+}
+h4.m {
+    color: red;
+    text-decoration: underline;
+}
