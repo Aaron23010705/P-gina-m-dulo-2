@@ -17,15 +17,18 @@ p.primer {
 }
 
 p{
-    text-align: justify;
+    
+        text-align: justify;
     line-height: 125%;
     padding-left: 2%;
     padding-right: 5%;
 }
 h4.m {
-    color: red;
+    color: black;
     text-decoration: underline;
-}
+   
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
 div.segundo {
     text-align: center;
   }
