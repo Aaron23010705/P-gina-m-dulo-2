@@ -1,2 +1,9 @@
-p {display: inline-block;
-vertical-align: top;}
+div.first {background-color:rgb(205, 92, 92);}
+
+p.primero {display: inline-block;
+vertical-align: top;
+}
+p.segundo{
+    display: inline-block;
+    vertical-align: top;
+}

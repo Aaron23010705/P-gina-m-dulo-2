@@ -15,6 +15,7 @@ p.primer {
     text-align: justify;
    
 }
+
 p{
     text-align: justify;
     line-height: 125%;
@@ -32,9 +33,62 @@ div.segundo {
     p.second {
         padding-top: 2%;
     }
+
+    div.tercero{
+        text-align: center;
+         
+        }
+        p.third {padding-top: 2%;
+        }
+        div.cuarto{
+            text-align: center;
+             
+            }
+             p.fourth {padding-top: 2%;
+            }
+            div.quinto{
+                text-align: center;
+                 
+                }
+                p.fifth {padding-top: 2%;
+                }
+                div.sexto{
+                    text-align: center;
+                     
+                    }
+                    p.sixth {padding-top: 2%;
+                    }
+                    div.séptimo{
+                        text-align: center;
+                         
+                        }
+                        p.seventh {padding-top: 2%;
+                        }
+                        div.octavo{
+                            text-align: center;
+                             
+                            }
+                            p.eighth {padding-top: 2%;
+                            }
+                            div.noveno{
+                                text-align: center;
+                                 
+                                }
+                                p.ninth {padding-top: 2%;
+                                }
+                                div.decimo{
+                                    text-align: center;
+                                     
+                                    }
+                                    p.tenth {padding-top: 2%;
+                                    }
 p.footer{
     color: white;
     background-color: black;
     text-align: center;
 padding-top: 1%;
 font-weight: bolder;}
+
+p.ninth {
+    text-align: justify;
+}
