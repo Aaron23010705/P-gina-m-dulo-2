@@ -1,9 +1,10 @@
-div.first {background-color:rgb(205, 92, 92);}
+p {
+    text-align: justify;
 
-p.primero {display: inline-block;
-vertical-align: top;
 }
-p.segundo{
-    display: inline-block;
-    vertical-align: top;
+div.card2 {
+    width: 100%;
+    height: auto;
+   display: flex;
+   flex-wrap: wrap;
 }
